@@ -36,13 +36,13 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define TAP_CODE_DELAY 5
 
 #define POINTING_DEVICE_AUTO_MOUSE_ENABLE
-#define AUTO_MOUSE_DEFAULT_LAYER 1
+#define AUTO_MOUSE_DEFAULT_LAYER 6
 
-#define DYNAMIC_KAYMAP_LAYER_COUNT 6
+#define DYNAMIC_KEYMAP_LAYER_COUNT 6
 
 #define OLED_TIMEOUT 30000
 
 #define TAPPING_TERM 180
 
-#define KEYBALL_CPI_DEFAULT 600 // マウス速度 (default: 500)
-#define KEYBALL_SCROLL_DIV_DEFAULT 6 // スクロール速度 (default: 4)
+#define KEYBALL_CPI_DEFAULT 600 // 繝槭え繧ｹ騾溷ｺｦ (default: 500)
+#define KEYBALL_SCROLL_DIV_DEFAULT 6 // 繧ｹ繧ｯ繝ｭ繝ｼ繝ｫ騾溷ｺｦ (default: 4)
